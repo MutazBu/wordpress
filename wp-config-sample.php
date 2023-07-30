@@ -1,5 +1,4 @@
 
-define('FS_METHOD','direct');
 
 <?php
 /**
